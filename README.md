@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Omar zaghouani</h1>
 <h3 align="center">  Student at ESPRIT:Private Higher School of Engineering and Technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-zaghouani&label=Profile%20views&color=0e75b6&style=flat" alt="sahar-letaief" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-zaghouani&label=Profile%20views&color=0e75b6&style=flat" alt="omar-zaghouani" /> </p>
 
 - 🔭 My latest project [web project](https://github.com/2A-22-23/2a31-warriors)
 - 🌱 I am currently getting *AWS Certifications*
