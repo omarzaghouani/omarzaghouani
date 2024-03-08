@@ -8,7 +8,7 @@
 - 📫 How to reach me *omar.zaghouani@esprit.tn*
 
 <img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" alt="Omar Zaghouani" style="display:block;margin:auto;">
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=omar-zaghouani&theme=onedark)](https://github.com/romar-zaghouani/github-profile-trophy)
 
 <h3 align="left">Languages and Tools:</h3>
 
