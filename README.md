@@ -7,7 +7,8 @@
 - 🌱 I am currently getting *AWS Certifications*
 - 📫 How to reach me *omar.zaghouani@esprit.tn*
 
-<img src="file:///C:/Users/omarz/Dropbox/PC/Downloads/web-developer.gif" alt="Omar Zaghouani" style="display:block;margin:auto;">
+<img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" alt="Omar Zaghouani" style="display:block;margin:auto;">
+
 
 <h3 align="left">Languages and Tools:</h3>
 
