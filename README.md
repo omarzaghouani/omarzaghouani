@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-zaghouani&label=Profile%20views&color=0e75b6&style=flat" alt="omar-zaghouani" /> </p>
 
-- 🔭 My latest project [java project](https://github.com/2A-22-23/2a31-warriors)
+- 🔭 My latest project [java project]([https://github.com/2A-22-23/2a31-warriors](https://github.com/omarzaghouani/campiigoo.git))
 - 🌱 I am currently getting *AWS Certifications*
 - 📫 How to reach me *omar.zaghouani@esprit.tn*
 
