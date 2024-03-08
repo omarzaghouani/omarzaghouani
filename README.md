@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-zaghouani&label=Profile%20views&color=0e75b6&style=flat" alt="omar-zaghouani" /> </p>
 
-- 🔭 My latest project [web project](https://github.com/2A-22-23/2a31-warriors)
+- 🔭 My latest project [java project](https://github.com/2A-22-23/2a31-warriors)
 - 🌱 I am currently getting *AWS Certifications*
 - 📫 How to reach me *omar.zaghouani@esprit.tn*
 
 <img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" alt="Omar Zaghouani" style="display:block;margin:auto;">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3 align="left">Languages and Tools:</h3>
 
