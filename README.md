@@ -8,9 +8,7 @@
 - 📫 How to reach me *omar.zaghouani@esprit.tn*
 
 <img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" alt="Omar Zaghouani" style="display:block;margin:auto;">
-<a href="https://github.com/romar-zaghouani/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=omar-zaghouani&theme=onedark" alt="trophy">
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarzaghouani)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
