@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am Omar zaghouani</h1>
 <h3 align="center">  Student at ESPRIT:Private Higher School of Engineering and Technology</h3>
-Looking for an end of study internship in cloud / DevOps engineering 
+<h3 align="center">Looking for an end of study internship in cloud / DevOps engineering </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-zaghouani&label=Profile%20views&color=0e75b6&style=flat" alt="omar-zaghouani" /> </p>
 
 - 🔭 My latest project [java project](https://github.com/omarzaghouani/campiigoo/tree/omar-transport)
