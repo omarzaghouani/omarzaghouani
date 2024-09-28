@@ -3,7 +3,7 @@
 <h3 align="center">Looking for an end of study internship in software architecture (genie logiciel et systeme d'information) / DevOps engineering </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-zaghouani&label=Profile%20views&color=0e75b6&style=flat" alt="omar-zaghouani" /> </p>
 
-- 🔭 My latest project [java project]((https://github.com/omarzaghouani/campiigoweb/tree/transportomar-web))
+- 🔭 My latest project [java project](https://github.com/omarzaghouani/campiigoweb)
 - 🌱 I am currently getting *AWS Certifications*
 - 📫 How to reach me *omar.zaghouani@esprit.tn*
 
