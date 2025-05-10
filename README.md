@@ -27,7 +27,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=omarzaghouani&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20" height="20" />
 <a href="https://www.linkedin.com/in/omar-zaghouani-7b7247234/" target="_blank" rel="noopener noreferrer">
-  <strong>LinkedIn profile</strong>
+  
 </a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarzaghouani)](https://github.com/anuraghazra/github-readme-stats)
