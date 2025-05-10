@@ -7,7 +7,7 @@
   *(Technologies: Angular, Spring Boot, React.js, Docker, Microservices, Machine Learning)*
 - 🌱 I am currently getting *AWS Certifications*
 - 📫 How to reach me *omar.zaghouani@esprit.tn*
- - 💼 LinkedIn: [Omaar](https://www.linkedin.com/in/omar-zaghouani-7b7247234/)
+ -  LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/omar-zaghouani-7b7247234/)
 
 
 <img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" alt="Omar Zaghouani" style="display:block;margin:auto;">
