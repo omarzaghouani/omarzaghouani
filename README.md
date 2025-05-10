@@ -7,11 +7,11 @@
   *(Technologies: Angular, Spring Boot, React.js, Docker, Microservices, Machine Learning)*
 - 🌱 I am currently getting *AWS Certifications*
 - 📫 How to reach me *omar.zaghouani@esprit.tn*
--  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omar-zaghouani-7b7247234/)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20" height="20" />
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20" height="20" />
 <a href="https://www.linkedin.com/in/omar-zaghouani-7b7247234/" target="_blank" rel="noopener noreferrer">
   <strong>LinkedIn profile</strong>
 </a>
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omar-zaghouani-7b7247234/)
 
 
 <img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" alt="Omar Zaghouani" style="display:block;margin:auto;">
