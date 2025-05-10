@@ -12,9 +12,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20" height="20" />
 <a href="https://www.linkedin.com/in/omar-zaghouani-7b7247234/" target="_blank" rel="noopener noreferrer">
   <strong>LinkedIn profile</strong>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omar-zaghouani-7b7247234/)
 </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omar-zaghouani-7b7247234/)
+
 
 
 
